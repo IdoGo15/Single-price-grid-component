@@ -1,0 +1,39 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Karla', sans-serif;
+}
+
+/* Header */
+
+.header {
+  display: block;
+  padding: 10px 60px;
+  line-height: 0.6;
+}
+
+.header h1 {
+  color: hsl(179, 62%, 43%);
+  font-weight: 700;
+  font-size: 50px;
+  padding-bottom: 10px;
+}
+
+.header h2 {
+  font-size: 40px;
+  font-weight: 400;
+  font-weight: bolder;
+  color:hsl(71, 73%, 54%) ;
+}
+
+.header p {
+  color: hsl(218, 22%, 67%);
+  font-size: 30px;
+  line-height: 1.5;
+  font-weight: bold;
+  opacity: 0.6;
+}
+
+
+
