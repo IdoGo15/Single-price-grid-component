@@ -10,18 +10,18 @@ body {
 .header {
   display: block;
   padding: 10px 60px;
-  line-height: 0.6;
+  line-height: 0.5;
 }
 
 .header h1 {
   color: hsl(179, 62%, 43%);
   font-weight: 700;
-  font-size: 50px;
+  font-size: 48px;
   padding-bottom: 10px;
 }
 
 .header h2 {
-  font-size: 40px;
+  font-size: 38px;
   font-weight: 400;
   font-weight: bolder;
   color:hsl(71, 73%, 54%) ;
@@ -29,11 +29,51 @@ body {
 
 .header p {
   color: hsl(218, 22%, 67%);
-  font-size: 30px;
+  font-size: 28px;
   line-height: 1.5;
   font-weight: bold;
   opacity: 0.6;
 }
+
+/* Grid */
+#grid {
+  padding-top: 60px;
+}
+
+.column-1 {
+  padding-top: 10px;
+}
+
+.column-1 h2 {
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+
+.grid h5 {
+  font-size: 30px;
+}
+
+.column-2 {
+  line-height: 1.2;
+}
+
+.column-2 h2 {
+  font-size: 30px;
+  padding-top: 25px;
+  padding-left: 40px;
+}
+
+.column-2 p {
+  font-size: 25px;
+  padding-bottom: 30px;
+}
+
+
+
+
+
+
+
 
 
 
